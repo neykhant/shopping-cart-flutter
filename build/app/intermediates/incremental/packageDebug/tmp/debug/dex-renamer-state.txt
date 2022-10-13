@@ -1,0 +1,4 @@
+#Thu Oct 13 13:58:22 MMT 2022
+base.0=D\:\\data\\SHOPPING CARD FLUTTER TUTORIAL\\Flutter-Shopping-Cart-With-Provider-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
